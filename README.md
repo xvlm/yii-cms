@@ -46,6 +46,6 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 tests                    contains various tests for the advanced application
+db/                      contains database files
     codeception/         contains tests developed with Codeception PHP Testing Framework
 ```
-db/                      contains database files
